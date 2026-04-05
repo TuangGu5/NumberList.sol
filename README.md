@@ -10,3 +10,4 @@ contract NumberList {
         numbers.push(_num);
     }
 }
+Add beginner-friendly Solidity contracts
