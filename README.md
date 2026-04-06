@@ -11,3 +11,4 @@ contract NumberList {
     }
 }
 Add beginner-friendly Solidity contracts
+Update setter logic
