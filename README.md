@@ -15,3 +15,4 @@ Update setter logic
 Add getter function
 Clean code formatting
 Improve contract modularity
+Optimize storage usage
